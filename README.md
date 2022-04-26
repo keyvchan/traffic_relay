@@ -2,6 +2,12 @@
 
 This repo used as an example to demonstrate how to use `epoll` in a single thread, served both as client and server.
 
+## TODO
+
+- Eliminate the use of hard-coded address and port.
+- Add example of `kqueue`, and maybe `iocp`.
+- Refactor, especially add more comments.
+
 ## Usage
 
 1.  Compile `main.cpp` using
