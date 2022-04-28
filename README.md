@@ -6,6 +6,7 @@ This repo used as an example to demonstrate how to use `epoll` in a single threa
 
 - Eliminate the use of hard-coded address and port.
 - Add example of `kqueue`, and maybe `iocp`.
+- Exploring `io_uring`.
 - Refactor, especially add more comments.
 
 ## Usage
